@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to left, rgb(204, 8, 60), rgb(96, 0, 128));
+};
+output{
+    background: aliceblue;
+    border-radius: 10px;
+    border-top: 10pz solid darkblue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+};
